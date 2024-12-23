@@ -5,6 +5,6 @@
 - About me
     - Name
     - Age
-    - `[My GitHub](https://github.com/haudevw3/mygithub/)`
-    - `My GitHub`(https://github.com/haudevw3/mygithub/)
+    - [My GitHub](https://github.com/haudevw3/mygithub/)
+    - `My GitHub(https://github.com/haudevw3/mygithub/)`
 - Skills
