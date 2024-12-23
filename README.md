@@ -1,5 +1,3 @@
-## HEADER
-
-## SUBHEADER (h2)
-
-## SUBHEADER (H3)
+# header (h1)
+## subheader (h2)
+### subheader (h3)
