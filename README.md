@@ -6,4 +6,5 @@
     - Name
     - Age
     - [My GitHub](https://github.com/haudevw3/mygithub/)
-    - `Label`
+    - `My GitHub`(https://github.com/haudevw3/mygithub/)
+- Skills
