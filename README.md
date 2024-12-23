@@ -6,7 +6,7 @@
     - Name
     - Age
     - `Label`
-    - [My GitHub](https://github.com/haudevw3/mygithub/)
     - [`My GitHub`](https://github.com/haudevw3/mygithub/)
-    - <a href="https://github.com/haudevw3/mygithub/">`My GitHub`</a>
+    - [My GitHub](https://github.com/haudevw3/mygithub/)
+    - "[Article title](article-URL)"
 - Skills
