@@ -13,4 +13,4 @@
     - PHP
     - Laravel
 # Alert
-**Alert**: This is an important alert message!
+> 🚨 **Alert**: This is a critical warning or message.
