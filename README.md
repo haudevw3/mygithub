@@ -5,6 +5,7 @@
 - About me
     - Name
     - Age
+    - `Label`
     - [My GitHub](https://github.com/haudevw3/mygithub/)
-    - <a href="https://github.com/haudevw3/mygithub/"><code>My GitHub</code></a>
+    - <a href="https://github.com/haudevw3/mygithub/">`My GitHub`</a>
 - Skills
