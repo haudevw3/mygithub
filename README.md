@@ -54,13 +54,6 @@ __double underscores__
 ```
 text box
 ```
-
-1. Under your repository name, click **Actions**.
-
-   ![Screenshot of the tabs for the "github/docs" repository. The "Actions" tab is highlighted with an orange outline.](/assets/images/help/repository/actions-tab-global-nav-update.png)
-
-   This is another paragraph in the list.
-
-1. This is the next item.
+*text box*
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
