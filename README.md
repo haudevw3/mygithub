@@ -13,4 +13,15 @@
     - PHP
     - Laravel
 # Alert
-> 🚨 **Alert**: This is a critical warning or message.
+
+> [!NOTE]
+> Keep this in mind.
+
+> [!TIP]
+> Here's a suggestion.
+
+> [!WARNING]
+> Be careful.
+
+> [!CAUTION]
+> Be extremely careful.
