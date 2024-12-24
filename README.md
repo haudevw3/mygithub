@@ -41,5 +41,5 @@
     - PHP
     - Laravel
 
-* Tests
+# Tests
 [red]Some red text[/red]
