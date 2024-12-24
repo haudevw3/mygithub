@@ -31,6 +31,9 @@
 # Lists
 * Item1
 * Item2
+<span style="display: inline-block; width: 24px; height: 24px; background-color: black; color: white; border-radius: 50%; text-align: center; line-height: 24px; font-size: 14px;">
+  1
+</span>
 
 # Categories
 * About me
