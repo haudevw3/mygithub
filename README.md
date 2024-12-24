@@ -43,7 +43,7 @@
 
 # Tests
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # Tests
@@ -59,19 +59,5 @@ git status
 git add
 git commit
 ```
-
-.lower_roman+ol, .lower_roman+ul {list-style-type: lower-roman;}
-.upper_roman+ol, .upper_roman+ul {list-style-type: upper-roman;}
-.lower_alpha+ol, .lower_alpha+ul {list-style-type: lower-alpha;}
-.upper_alpha+ol, .upper_alpha+ul {list-style-type: upper-alpha;}
-.lower_greek+ol, .lower_greek+ul {list-style-type: lower-greek;}
-.lower_latin+ol, .lower_latin+ul {list-style-type: lower-latin;}
-.upper_latin+ol, .upper_latin+ul {list-style-type: upper-latin;}
-.none+ol, .none+ul {list-style-type:none;}
-.disc+ol, .disc+ul {list-style-type:disc;}
-.circle+ol, .circle+ul {list-style-type:circle;}
-.square+ol, .square+ul {list-style-type:square;}
-.decimal+ol, .decimal+ul {list-style-type:decimal;}
-.decimal_leading_zero+ol, .decimal_leading_zero+ul {list-style-type:decimal-leading-zero;}
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
