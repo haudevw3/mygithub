@@ -19,18 +19,24 @@
 [^1]: Not to be confused with Davy Jones of The Monkees
 [^2]: Also humans
 
+# Header (h1)
+## Header (h2)
+### Header (h3)
 
-# header (h1)
-## subheader (h2)
-### subheader (h3)
+# Links
+[`My GitHub`](https://github.com/haudevw3/mygithub/)
+[My GitHub](https://github.com/haudevw3/mygithub/)
+"[My GitHub](https://github.com/haudevw3/mygithub/)"
+
+# Lists
+* Item1
+* Item2
+
 # Overview
 - About me
     - Name
     - Age
     - `Label`
-    - [`My GitHub`](https://github.com/haudevw3/mygithub/)
-    - [My GitHub](https://github.com/haudevw3/mygithub/)
-    - "[My GitHub](https://github.com/haudevw3/mygithub/)"
 - Skills
     - PHP
     - Laravel
