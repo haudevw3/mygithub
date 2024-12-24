@@ -42,4 +42,4 @@
     - Laravel
 
 # Tests
-[red]Some red text[/red]
+[#ff0000]Some red text[/#ff0000]
