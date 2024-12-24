@@ -42,7 +42,4 @@
     - Laravel
 
 # Tests
-+ some-text +
-- some-text -
-# some-text #
-* some-text *
+<code style='background-color: red'>text</code>
