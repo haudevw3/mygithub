@@ -31,7 +31,6 @@
 # Lists
 * Item1
 * Item2
-**`1`** Item3
 
 # Categories
 * About me
@@ -41,3 +40,6 @@
 * Skills
     - PHP
     - Laravel
+
+* Tests
+[red]Some red text[/red]
