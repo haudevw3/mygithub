@@ -43,7 +43,7 @@
 
 # Tests
 - [x] #739
-- https://github.com/octo-org/octo-repo/issues/740
+- [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # Tests
@@ -54,10 +54,29 @@ __double underscores__
 ```
 text box
 ```
-```
-git status
-git add
-git commit
-```
+<ol>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sign in to GitHub.</font></font></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Navigate to your </font></font><a href="https://gist.github.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gist home page</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Optionally, in the "Gist description" field, type a description for your gist.</font></font></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">In the "Filename including extension" field, type a file name for your gist, including the file extensions.</font></font></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">In the file contents field, type the text of your gist.</font></font></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Optionally, to create a public gist, click </font></font><svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-triangle-down" aria-label="The downwards triangle icon" role="img"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, then click </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Create public gist</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+<p></p><div class="procedural-image-wrapper"><picture><source srcset="/assets/cb-211224/mw-1440/images/help/gist/gist-visibility-drop-down.webp 4x" type="image/webp"><img src="/assets/cb-211224/images/help/gist/gist-visibility-drop-down.png" alt="Screenshot of the visibility dropdown menu for a new gist. Next to a button labeled &quot;Create secret gist&quot;, a dropdown icon is outlined in dark orange."></picture></div><p></p>
+</li>
+<li>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Click </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Create secret Gist</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> or </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Create public gist</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+</li>
+</ol>
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
