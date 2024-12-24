@@ -42,4 +42,7 @@
     - Laravel
 
 # Tests
-[#ff0000]Some red text[/#ff0000]
++ some-text +
+- some-text -
+# some-text #
+* some-text *
