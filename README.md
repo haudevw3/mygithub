@@ -11,8 +11,13 @@
 > [!CAUTION]
 > Be extremely careful.
 
-# Buttons
-<a href="https://github.com/haudevw3/mygithub/URL?ref_cta=GHEC+trial&ref_loc=Setting+up+a+trial+of+GitHub+Enterprise+Cloud&ref_page=docs" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>Try PRODUCT NAME</span> {% octicon "link-external" height:16 %}</a>
+# Footnotes
+| | Mona | Ursula | Paul | Davy Jones[^1] |
+|---|---|---|---|---|
+|Favorite pastime| Shipping code | Tricking mermaids[^2] | Predicting sports | Haunting seafarers |
+|Uses powers for good| Yes | No | Yes | No |
+[^1]: Not to be confused with Davy Jones of The Monkees
+[^2]: Also humans
 
 
 # header (h1)
