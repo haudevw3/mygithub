@@ -32,11 +32,10 @@
 * Item1
 * Item2
 
-# Overview
-- About me
+# Categories
+* About me
     - Name
     - Age
-    - `Label`
-- Skills
+* Skills
     - PHP
     - Laravel
