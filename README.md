@@ -30,7 +30,8 @@
 
 # Lists
 * Item1
-*[1] Item2
+* Item2
+* ![#f03c15](https://github.com/haudevw3/mygithub/) `#f03c15`
 
 # Categories
 * About me
