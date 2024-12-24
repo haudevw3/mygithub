@@ -36,6 +36,7 @@
 * About me
     - Name
     - Age
+    - `Date`
 * Skills
     - PHP
     - Laravel
