@@ -29,15 +29,15 @@
 "[My GitHub](https://github.com/haudevw3/mygithub/)"
 
 # Lists
-* Item1
-* Item2
++ Item1
++ Item2
 
 # Categories
-* About me
++ About me
     - Name
     - Age
     - `Date`
-* Skills
++ Skills
     - PHP
     - Laravel
 
